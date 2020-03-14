@@ -142,4 +142,4 @@ mysql> select a.team_name, b.team_name
 3 rows in set (0.00 sec)
 ```
 
-**查询顺序是**：FROM > WHERE > GROUP BY > HAVING > SELECT 的字段 > DISTINCT > ORDER BY > LIMIT
+**查询顺序是**：FROM > WHERE > GROUP BY > HAVING > SELECT > DISTINCT > ORDER BY > LIMIT
