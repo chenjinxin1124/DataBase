@@ -1,0 +1,7 @@
+{
+  "host":"bigdata-pro01",
+  "user":"root",
+  "passwd":"123456",
+  "database":"chenyang",
+  "auth_plugin":"mysql_native_password"
+}
