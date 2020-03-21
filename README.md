@@ -1,2 +1,3 @@
 # DataBase
-MySQL-version：8.0.13 AND 5.0.3
+CentOS MySQL版本: 5.1.73-log
+Windows MySQL版本：8.0.13
